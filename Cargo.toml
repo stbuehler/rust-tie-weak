@@ -1,0 +1,10 @@
+[package]
+name = "tie-weak"
+version = "0.0.0"
+authors = ["Stefan Bühler <stbuehler@web.de>"]
+
+[features]
+default = ["std"]
+std = []
+
+[dependencies]
